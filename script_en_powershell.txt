@@ -1,0 +1,12 @@
+Para Windows
+
+Abrir powershell como administrador
+
+Get-ExecutionPolicy
+
+Cambiamos con
+
+Set-ExecutionPolicy Unrestricted
+
+Aceptamos con S Mayúscula 
+
